@@ -1,2 +1,3 @@
-# numpy_review
+# NumPy Review
 Review of NumPy basics in Python, including code from 'NumPy in Python for Beginners' tutorial series from Code of the Future
+# In this Repo...
