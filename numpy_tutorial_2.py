@@ -1,4 +1,4 @@
-# NumPy Tutorial 1 - Indexing Arrays
+# NumPy Tutorial 2 - Indexing Arrays
 
 # Importing relevant modules
 import numpy as np
