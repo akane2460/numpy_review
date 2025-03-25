@@ -1,4 +1,4 @@
-# NumPy Tutorial 4 - Shaping and Reshaping Arrays
+# NumPy Tutorial 5 - Shaping and Reshaping Arrays
 
 # Importing relevant modules
 import numpy as np
