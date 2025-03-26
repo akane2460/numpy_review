@@ -1,4 +1,4 @@
-# NumPy Tutorial 6 - Operations for Data Analysis
+# NumPy Tutorial 7 - Operations for Data Analysis
 
 # Importing relevant modules
 import numpy as np
